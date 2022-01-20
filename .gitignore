@@ -1,0 +1,4 @@
+# Ignore build files
+STL
+*.stl
+*.3mf
