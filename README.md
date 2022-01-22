@@ -1,5 +1,5 @@
-# automated-nerf-hardware
-Hardware for the QUT EESS Nerf Project
+# Automated Nerf Hardware
+Hardware for the QUT EESS Nerf Project (2022)
 
 This project consists of two designed parts:  
 - A SLIDE that attaches to the dart gun and swivels about a servo/lazy susan.  
